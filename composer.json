@@ -1,5 +1,5 @@
 {
-    "name": "douglasroos/graph-sdk",
+    "name": "douglasroos/php-graph-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
@@ -8,7 +8,7 @@
     "authors": [
         {
             "name": "Facebook",
-            "homepage": "https://github.com/facebook/php-graph-sdk/contributors"
+            "homepage": "https://github.com/douglasroos/php-graph-sdk/contributors"
         }
     ],
     "require": {
